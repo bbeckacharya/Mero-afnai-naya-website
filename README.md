@@ -51,10 +51,10 @@ In all of the places where you're supposed to fill your information you'll find 
     <div class="header__text">
         <h1 class="heading-primary">
         <!-- Replace the following name with your name -->
-        <span>Syed Ali Hussnain</span>
+        <span>Bibek Acharya</span>
         </h1>
         <!-- Put a small paragraph about yourself -->
-        <p>A Web Developer based in Lahore, Pakistan.</p>
+        <p>A Web Developer based in Pokhara,Nepal.</p>
         <a href="#contact" class="btn btn--pink">Get in touch</a>
     </div>
 </div>
@@ -69,7 +69,7 @@ Each div with class `work__box` represents a project, replace the contents of th
     <div class="work__text">
     <h3>Portfolio Template</h3>
     <p>
-        A free Open Source Portfolio for anyone to use for free.
+        A free Open Source Portfolio for Bibek Acharya.
     </p>
     <ul class="work__list">
         <li>HTML</li>
@@ -137,10 +137,7 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+               I am a civil engineer from Pokhara, Nepal. I love codings and web developing.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -178,7 +175,7 @@ For changing the screenshot:
             me is via an email.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:bibekacharya41@gmail.com" class="btn">bibekacharya41@gmail.com</a>
         </div>
       </div>
 </section>
